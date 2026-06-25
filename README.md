@@ -25,13 +25,13 @@ Tombol retry yang memanggil ulang fungsi fetch
 
 
 ***Screenshot***
-> Loading <
+> Loading 
 <img width="720" height="1600" alt="Loading" src="https://github.com/user-attachments/assets/e2dedf5f-ab3e-47c4-8024-697918c4f406" />
 
-> Success <
+> Success 
 <img width="720" height="1600" alt="Loading" src="https://github.com/user-attachments/assets/4daed499-a981-4d61-9482-19f48f5416da" />
 
->Error<
+>Error
 <img width="720" height="1600" alt="Error" src="https://github.com/user-attachments/assets/790c49c3-12ce-41f0-ad6a-6ca8aec704de" />
 
 
